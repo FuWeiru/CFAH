@@ -1,2 +1,2 @@
-# CHFP
-A Chinese healthcare false propaganda detection dataset.
+# CFAH
+A Chinese Dataset for Detecting False Advertising in Healthcare.
